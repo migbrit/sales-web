@@ -14,7 +14,7 @@ To install Sales Web project, follow these steps:
 
 Windows, Linux and macOS:
 ```
-git clone https://github.com/migbrit/burguers-mac.git
+git clone https://github.com/migbrit/sales-web.git
 
 ```
 
