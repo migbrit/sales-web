@@ -2,7 +2,7 @@
 
 > This is a website project that has a simple CRUD of sales, I used MySQL as database to save the data of all sales registered, the website has cool interaction with departments, sellers and sales, test yourself!
 
-> ASP.NET, C#, Entity Framework, MySQL, LINQ, HTML, CSS
+> ASP.NET CORE, C#, Entity Framework, MySQL, LINQ, HTML, CSS
 
 ## 💻 Prerequisites
 
